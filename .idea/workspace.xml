@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f91bb25-eab0-497b-bfbf-aa8eea3f7246" name="Changes" comment="Nada">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="5f91bb25-eab0-497b-bfbf-aa8eea3f7246" name="Changes" comment="Nada,,,">
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Clase_Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Clase_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Tipos_de_datos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,7 +35,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,7 +47,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665504647115</updated>
-      <workItem from="1665504648851" duration="407000" />
+      <workItem from="1665504648851" duration="1448000" />
+      <workItem from="1665573836366" duration="7610000" />
     </task>
     <task id="LOCAL-00001" summary="Nada">
       <created>1665504737058</created>
@@ -45,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665504737058</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Nada,,,">
+      <created>1665505066409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665505066409</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,6 +83,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Nada" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nada" />
+    <MESSAGE value="Nada,,," />
+    <option name="LAST_COMMIT_MESSAGE" value="Nada,,," />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
