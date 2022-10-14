@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f91bb25-eab0-497b-bfbf-aa8eea3f7246" name="Changes" comment="Ejercicios de clase">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Condicional01.java" afterDir="false" />
+    <list default="true" id="5f91bb25-eab0-497b-bfbf-aa8eea3f7246" name="Changes" comment="Nada,,,">
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Clase_Math.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Clase_string.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Tipos_de_datos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fundamentos/Clase_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fundamentos/Clase_string.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,9 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665504647115</updated>
       <workItem from="1665504648851" duration="1448000" />
-      <workItem from="1665573836366" duration="8499000" />
-      <workItem from="1665591414934" duration="222000" />
-      <workItem from="1665759884833" duration="3873000" />
+      <workItem from="1665573836366" duration="7610000" />
     </task>
     <task id="LOCAL-00001" summary="Nada">
       <created>1665504737058</created>
@@ -65,14 +64,7 @@
       <option name="project" value="LOCAL" />
       <updated>1665505066409</updated>
     </task>
-    <task id="LOCAL-00003" summary="Ejercicios de clase">
-      <created>1665583567117</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1665583567117</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,8 +84,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Nada" />
     <MESSAGE value="Nada,,," />
-    <MESSAGE value="Ejercicios de clase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios de clase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nada,,," />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
