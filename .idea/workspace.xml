@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f91bb25-eab0-497b-bfbf-aa8eea3f7246" name="Changes" comment="Nada,,,">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Clase_Math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Clase_string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Tipos_de_datos.java" afterDir="false" />
+    <list default="true" id="5f91bb25-eab0-497b-bfbf-aa8eea3f7246" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/fundamentos/Clase_string.java">
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Ciclos01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,6 +47,7 @@
       <updated>1665504647115</updated>
       <workItem from="1665504648851" duration="1448000" />
       <workItem from="1665573836366" duration="7610000" />
+      <workItem from="1666091809026" duration="2408000" />
     </task>
     <task id="LOCAL-00001" summary="Nada">
       <created>1665504737058</created>
@@ -84,7 +83,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Nada" />
     <MESSAGE value="Nada,,," />
-    <option name="LAST_COMMIT_MESSAGE" value="Nada,,," />
+    <MESSAGE value="Ejercicios de clase" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios de clase" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
