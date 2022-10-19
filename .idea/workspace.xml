@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f91bb25-eab0-497b-bfbf-aa8eea3f7246" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/fundamentos/Clase_string.java">
-      <change afterPath="$PROJECT_DIR$/src/fundamentos/Ciclos01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Ciclos_do_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Ciclos_while.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/Ciclos_while_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/For_anidado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/do_while02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fundamentos/while03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fundamentos/Ciclos01.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +43,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Ciclos02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fundamentos.Ciclos02" />
+      <module name="Java_2559206" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fundamentos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ciclos02" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +73,8 @@
       <updated>1665504647115</updated>
       <workItem from="1665504648851" duration="1448000" />
       <workItem from="1665573836366" duration="7610000" />
-      <workItem from="1666091809026" duration="2408000" />
+      <workItem from="1666091809026" duration="3781000" />
+      <workItem from="1666176550692" duration="6235000" />
     </task>
     <task id="LOCAL-00001" summary="Nada">
       <created>1665504737058</created>
@@ -63,7 +90,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665505066409</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/fundamentos/Clase_string.java">
+      <created>1666094627978</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666094627993</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/fundamentos/Clase_string.java">
+      <created>1666094641612</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666094641612</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,7 +125,8 @@
     <MESSAGE value="Nada" />
     <MESSAGE value="Nada,,," />
     <MESSAGE value="Ejercicios de clase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios de clase" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/fundamentos/Clase_string.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;src/fundamentos/Clase_string.java" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
