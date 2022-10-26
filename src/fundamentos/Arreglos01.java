@@ -8,6 +8,7 @@ public class Arreglos01 {
     public static void main(String[] args) {
         ArrayList<String> aprendices = new ArrayList<>();
         Scanner sc= new Scanner(System.in);
+
         String nombre;
         System.out.println(aprendices.size());
         aprendices.add("Carlos Alberto Pérez Posada");
