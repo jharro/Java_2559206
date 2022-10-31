@@ -6,7 +6,8 @@ public class MisMetodos02 {
         System.out.println("Hola "+nombrePersona);
     }
 
-    static public String saludo(String nombrePersona){
+    static public
+    String saludo(String nombrePersona){
         return "Buenos días "+nombrePersona;
     }
 }
