@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f91bb25-eab0-497b-bfbf-aa8eea3f7246" name="Changes" comment="POO - CLASE No 1">
-      <change afterPath="$PROJECT_DIR$/src/poo/Empleado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poo/MainEmpleado.java" afterDir="false" />
+    <list default="true" id="5f91bb25-eab0-497b-bfbf-aa8eea3f7246" name="Changes" comment="MÉTODOS">
+      <change afterPath="$PROJECT_DIR$/src/poo/MainMostro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poo/Monstro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poo/MisMetodos02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poo/MisMetodos02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,9 +79,7 @@
       <workItem from="1666613398574" duration="152000" />
       <workItem from="1666781331174" duration="5219000" />
       <workItem from="1666797725940" duration="604000" />
-      <workItem from="1667221486659" duration="8561000" />
-      <workItem from="1667299569051" duration="38000" />
-      <workItem from="1667386175551" duration="3760000" />
+      <workItem from="1667221486659" duration="8376000" />
     </task>
     <task id="LOCAL-00001" summary="Nada">
       <created>1665504737058</created>
@@ -131,21 +130,7 @@
       <option name="project" value="LOCAL" />
       <updated>1666785675910</updated>
     </task>
-    <task id="LOCAL-00008" summary="POO - CLASE No 1">
-      <created>1667231955796</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1667231955796</updated>
-    </task>
-    <task id="LOCAL-00009" summary="POO - CLASE No 1">
-      <created>1667231976958</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1667231976958</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,8 +155,7 @@
     <MESSAGE value="Ciclos" />
     <MESSAGE value="ArrayList" />
     <MESSAGE value="MÉTODOS" />
-    <MESSAGE value="POO - CLASE No 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="POO - CLASE No 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="MÉTODOS" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
